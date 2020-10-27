@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BiblioHuerta</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="iniciar">Iniciar sesión</string>
+    <string name="registrar">Registrar</string>
+    <string name="nombre">Nombre</string>
+</resources>
